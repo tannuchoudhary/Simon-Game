@@ -1,5 +1,6 @@
 # Simon-Game
 Link: https://tannuchoudhary.github.io/Simon-Game/
+
 This is The Simon game which i've created using HTML, CSS, and JavaScript.You can play this game to improve your brain functioning 🧠. 
 
 Using colored buttons, animations, and sounds as directional prompts, this game engages cognitive function that works on sequential processing, short-term memory, attention and visual processing💡.
