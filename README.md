@@ -15,7 +15,7 @@ Using colored buttons, animations, and sounds as directional prompts, this game 
   * Step 5: Again another button will blink(let us say green again), so my pattern is red, green, green. So press them in same order from starting.
   * Continue this process....
 
-  If you are still confused about How to play the game then use your best skill......google it🔎
+  If you are still confused about, how to play this game then use your best skill......google it🔎
 
   ps: I could reach 11, let me know if you were able to beat me 😉
 
