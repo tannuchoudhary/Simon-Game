@@ -6,7 +6,7 @@ Using colored buttons, animations, and sounds as directional prompts, this game 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## How to play
 
-(Note: You can only play this in laptop or desktop)
+(Note: You can only play this on laptop or desktop)
   
   * Step 1: Your Game will start after pressing any key
   * Step 2: Remember the button which got blinked when you pressed the key(let us say red)
