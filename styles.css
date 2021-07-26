@@ -51,3 +51,11 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+.msg{
+    font-family: 'Press Start 2P', cursive;
+    color : white;
+    margin-top: 5%;
+}
+.copyright{
+    color : #fff;
+}
